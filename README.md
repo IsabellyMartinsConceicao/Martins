@@ -26,8 +26,20 @@
                 <img src=https://www.planocritico.com/wp-content/uploads/2018/12/A-Noiva-Cadaver.jpg" alt="">
        </a>
        <a href="https://www.youtube.com/watch?v=nMmNpGPRAtI">
-             <img src="https://vitaminanerd.com.br/wp-content/uploads/2019/05/A-Noiva-Cad%C3%A1ver-Capa.png" alt="">
-        </a>
-        <a href="https://www.youtube.com/watch?v=bOtedssZgj8">
-            <img src="https://preview.redd.it/the-corpse-bride-v0-unp4mfbczesd1.jpg?width=640&crop=smart&auto=webp&s=043c21210b3366b473b15c38670343c0881d2c61" alt="">
-       </a>     
+           <img src="https://vitaminanerd.com.br/wp-content/uploads/2019/05/A-Noiva-Cad%C3%A1ver-Capa.png" alt="">
+      </a>
+         <a href="https://www.youtube.com/watch?v=bOtedssZgj8">
+              <img src="https://preview.redd.it/the-corpse-bride-v0-unp4mfbczesd1.jpg?width=640&crop=smart&auto=webp&s=043c21210b3366b473b15c38670343c0881d2c61" alt=""> 
+       </a>      
+          <a href="https://www.youtube.com/watch?v=bOtedssZgj8">
+               <img src="https://revistaogrito.com/wp-content/uploads/2014/10/Tim-Allen_NOIVA-CADAVER.jpghttps://revistaogrito.com/wp-content/uploads/2014/10/Tim-Allen_NOIVA-CADAVER.jpg" alt="">
+         </a>  
+            <a href="https://www.youtube.com/watch?v=bmhR-t7OL90">
+               <img src="https://i.pinimg.com/736x/a7/41/6a/a7416a18e3686132e126e19719f9b5b9.jpg" alt="">
+         </a>
+            
+        </div>
+    </section>
+   
+</body>
+</html>
